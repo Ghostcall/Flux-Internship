@@ -3,7 +3,7 @@ import './Hero.css'
 import hero from '../../assets/hero.jpg'
 const Hero = () => {
   return (
-    <div className='hero'>
+    <div className='hero' id='hero'>
         <div className="hero-top">
             <h3><span>Flux Creative Technologies -</span> Reimagining Digital. One Pixel at a Time.</h3>
             <h5>At Flux Creative Technologies, we blend design, code, and strategy to craft bold digital experiences that move with the world. We deliver innovative software development services and custom digital solutions that help businesses streamline operations, enhance user experiences, and drive sustainable growth. 

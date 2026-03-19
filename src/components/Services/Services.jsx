@@ -1,18 +1,3 @@
-// import React from 'react'
-
-// const Services = () => {
-//   return (
-
-//     <div className='service'>
-      
-//     </div>
-
-//   )
-// }
-
-// export default Services
-
-
 import React from 'react'
 import './Services.css'
 const Services = () => {
