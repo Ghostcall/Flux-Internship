@@ -34,14 +34,14 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.nav-links ul{
+.nav-links{
     display: flex;
     flex-direction: row;
     align-items: center;
     gap: 2rem;
     margin: auto 1rem;
 }
-.nav-links ul li a{
+.nav-links li a{
     font-size: 1rem;
     font-weight: 500;
     text-decoration: none;
