@@ -19,4 +19,4 @@ Internship Assignment
 **Vite**
 
 ## 🚀 How to Run the Project 
-### 1. Clone the repository ```bash git clone [https://github.com/Ghostcall/Flux-Internship.git]
+### 1. http://ghostcall.github.io/Flux-Internship/
