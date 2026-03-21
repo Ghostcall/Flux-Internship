@@ -19,7 +19,6 @@ const Navbar = () => {
                 <li><a href="#hero" className='active' onClick={closeMenu}>Home</a></li>
                 {/* <li><a href="#about">About</a></li> */}
                 <li><a href="#services" onClick={closeMenu}>Services</a></li>
-                <li><a href="#contact" onClick={closeMenu}>Work</a></li>
                 {/* <li><a href="#process">Our Process</a></li> */}
                 {/* <li><a href="#price">Pricing</a></li> */}
             </ul>
