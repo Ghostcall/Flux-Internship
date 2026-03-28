@@ -11,7 +11,11 @@ Internship Assignment
 **Hero Section** – Displays the main introductory content of the page.
 
 **Services Section** – Showcases key services  
+
+**Contact Section** - Displays contents form inputs to receive data from users
+ 
 **Footer** – Contains footer information and links  
+
 
 ## 🛠️ Tech Stack 
 **React.js**
