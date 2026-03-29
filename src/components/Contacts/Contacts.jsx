@@ -3,7 +3,8 @@ import { FaLinkedin, FaInstagram, FaWhatsapp } from "react-icons/fa";
 import './Contacts.css'
 const Contacts = () => {
         const [name, setName] = useState("");
-        const [message, setMesssage] = useState("");
+
+        const [message, setMessage] = useState("");
         const maxChars = 300;
 
   return (
@@ -44,8 +45,7 @@ const Contacts = () => {
                     id="message"
                     rows={15}
                     placeholder='Enter Message'
-                    onChange={(e)=> e.target.value.length 
-                    <= maxChars &&  setMessage(e.target.value)}                    
+                    onChange={(e)=> e.target.value.length <= maxChars &&  setMessage(e.target.value)}                    
                     required
                     />   
                     <p style={{ color: message.length > maxChars ? "red" : "#e4d0c8", fontSize: "16px", fontWeight: 700 }} >
